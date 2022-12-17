@@ -1,2 +1,2 @@
-# hr-analytics_in_power_bi
+# hr-analytics-in-power-bi
 In this Power BI project, the dataset for a software company called Atlas Labs will be explored. The Human Resources data of Atlas Labs will be imported, analyzed and then visualized in Power BI. Exploratory data analysis will be carried out and DAX will be used to build power visualizations. The analysis will end by diving deeper into attrition and what factors impact attrition. This analysis will help the company determine what action they will need to take to retain more employees. 
